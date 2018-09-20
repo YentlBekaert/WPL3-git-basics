@@ -2,6 +2,12 @@ body {
     background-color: black;
 }
 
+p {
+    color: red;
+    text-align: center;
+    font-size: 3rem;
+}
+
 h1 {
     color: white;
     font-size: 5rem;
